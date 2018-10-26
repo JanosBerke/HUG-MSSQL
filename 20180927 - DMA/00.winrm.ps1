@@ -1,0 +1,1 @@
+winrm quickconfig -transport:https
